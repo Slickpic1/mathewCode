@@ -1,0 +1,69 @@
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Aperture Science -  every hazard.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\CIS - Lucrehulk-Class Battleship.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\CIS - Marauder-Class Corvette.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\CIS - Munificient-Class Star Frigate.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\CIS - Providience-Class Fleet Carrier.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Confederacy of Independant Systems - Insignia.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Darth Reven's Sith Empire - Insignia.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Darth Reven's Sith Empire - Interdictor.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Galactic Empire - Empress-Class Space Station.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Galactic Empire - Imperial Star Destroyer.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Galactic Empire - Insignia.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Galactic Empire - Raider-Class Corvette.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Galactic Empire - Vindicator-Class Heavy Cruiser.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Galactic Republic - Acclamator-Class Assault Ship.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Galactic Republic - Arquitens-Class Light Cruiser.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Galactic Republic - Haven-Class Medical Station.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Galactic Republic - Insignia.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Galactic Republic - Venator-Class Star Destroyer.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Hylo Visz's Smuggling Contingent - Cargo Freighter.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Mandalorian empire - Mandalorian Cruiser - Landed.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Mining Station.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Mon Calamari - Insignia.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Mon Calamari - MC30C Frigate.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Mon Calamari - MC75 Star Cruiser.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Mon Calamari - MC80 Star Cruiser.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Mon Calamari - Shipyards T-Frame.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Reconstituted Sith Empire - Fury-Class Interceptor.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Reconstituted Sith Empire - Harrower-Class SD.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Reconstituted Sith Empire - Insignia.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Reconstituted Sith Empire - Sith Space Station.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Reconstituted Sith Empire - Terminus-Class SD.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Research Station.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Star Wars - Explosion.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Star Wars - Golan III Defense Platform.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Star Wars - White Proton Torpedo.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Star Wars - White Turbolaser.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Star Wars - XQ1 Platform.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Yuuzhan Vong - Advance Scout Ship.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Yuuzhan Vong - Insignia.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Yuuzhan Vong - Kor Chokk.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Yuuzhan Vong - Matalok.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Yuuzhan Vong - Miid Roik.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\Content\Yuuzhan Vong - Worldship.xnb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\StarWarsConquest.exe
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\StarWarsConquest.deps.json
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\StarWarsConquest.runtimeconfig.json
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\StarWarsConquest.dll
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\StarWarsConquest.pdb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\MonoGame.Framework.dll
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\obj\Debug\net6.0\StarWarsConquest.csproj.AssemblyReference.cache
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\obj\Debug\net6.0\StarWarsConquest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\obj\Debug\net6.0\StarWarsConquest.AssemblyInfoInputs.cache
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\obj\Debug\net6.0\StarWarsConquest.AssemblyInfo.cs
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\obj\Debug\net6.0\StarWarsConquest.csproj.CoreCompileInputs.cache
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\obj\Debug\net6.0\StarWarsConquest.sourcelink.json
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\obj\Debug\net6.0\StarWars.A81DDC85.Up2Date
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\obj\Debug\net6.0\StarWarsConquest.dll
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\obj\Debug\net6.0\refint\StarWarsConquest.dll
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\obj\Debug\net6.0\StarWarsConquest.pdb
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\obj\Debug\net6.0\StarWarsConquest.genruntimeconfig.cache
+c:\Users\slick\School\CS 212\cs212-hw\cse-210-assignment-repository\Monogame\StarWarsConquest\obj\Debug\net6.0\ref\StarWarsConquest.dll

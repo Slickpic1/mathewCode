@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Aperture Science -  every hazard.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/CIS - Lucrehulk-Class Battleship.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/CIS - Marauder-Class Corvette.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/CIS - Munificient-Class Star Frigate.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/CIS - Providience-Class Fleet Carrier.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Confederacy of Independant Systems - Insignia.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Darth Reven's Sith Empire - Insignia.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Darth Reven's Sith Empire - Interdictor.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Galactic Empire - Empress-Class Space Station.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Galactic Empire - Imperial Star Destroyer.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Galactic Empire - Insignia.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Galactic Empire - Raider-Class Corvette.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Galactic Empire - Vindicator-Class Heavy Cruiser.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Galactic Republic - Acclamator-Class Assault Ship.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Galactic Republic - Arquitens-Class Light Cruiser.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Galactic Republic - Haven-Class Medical Station.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Galactic Republic - Insignia.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Galactic Republic - Venator-Class Star Destroyer.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Hylo Visz's Smuggling Contingent - Cargo Freighter.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Mandalorian empire - Mandalorian Cruiser - Landed.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Mining Station.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Mon Calamari - Insignia.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Mon Calamari - MC30C Frigate.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Mon Calamari - MC75 Star Cruiser.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Mon Calamari - MC80 Star Cruiser.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Mon Calamari - Shipyards T-Frame.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Reconstituted Sith Empire - Fury-Class Interceptor.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Reconstituted Sith Empire - Harrower-Class SD.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Reconstituted Sith Empire - Insignia.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Reconstituted Sith Empire - Sith Space Station.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Reconstituted Sith Empire - Terminus-Class SD.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Research Station.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Star Wars - Explosion.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Star Wars - Golan III Defense Platform.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Star Wars - White Proton Torpedo.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Star Wars - White Turbolaser.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Star Wars - XQ1 Platform.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Yuuzhan Vong - Advance Scout Ship.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Yuuzhan Vong - Insignia.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Yuuzhan Vong - Kor Chokk.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Yuuzhan Vong - Matalok.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Yuuzhan Vong - Miid Roik.png</File>
+    <File>c:/Users/slick/School/CS 212/cs212-hw/cse-210-assignment-repository/Monogame/StarWarsConquest/Content/../../images/Yuuzhan Vong - Worldship.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Aperture Science -  every hazard.png</File>
+    <File>CIS - Lucrehulk-Class Battleship.png</File>
+    <File>CIS - Marauder-Class Corvette.png</File>
+    <File>CIS - Munificient-Class Star Frigate.png</File>
+    <File>CIS - Providience-Class Fleet Carrier.png</File>
+    <File>Confederacy of Independant Systems - Insignia.png</File>
+    <File>Darth Reven's Sith Empire - Insignia.png</File>
+    <File>Darth Reven's Sith Empire - Interdictor.png</File>
+    <File>Galactic Empire - Empress-Class Space Station.png</File>
+    <File>Galactic Empire - Imperial Star Destroyer.png</File>
+    <File>Galactic Empire - Insignia.png</File>
+    <File>Galactic Empire - Raider-Class Corvette.png</File>
+    <File>Galactic Empire - Vindicator-Class Heavy Cruiser.png</File>
+    <File>Galactic Republic - Acclamator-Class Assault Ship.png</File>
+    <File>Galactic Republic - Arquitens-Class Light Cruiser.png</File>
+    <File>Galactic Republic - Haven-Class Medical Station.png</File>
+    <File>Galactic Republic - Insignia.png</File>
+    <File>Galactic Republic - Venator-Class Star Destroyer.png</File>
+    <File>Hylo Visz's Smuggling Contingent - Cargo Freighter.png</File>
+    <File>Mandalorian empire - Mandalorian Cruiser - Landed.png</File>
+    <File>Mining Station.png</File>
+    <File>Mon Calamari - Insignia.png</File>
+    <File>Mon Calamari - MC30C Frigate.png</File>
+    <File>Mon Calamari - MC75 Star Cruiser.png</File>
+    <File>Mon Calamari - MC80 Star Cruiser.png</File>
+    <File>Mon Calamari - Shipyards T-Frame.png</File>
+    <File>Reconstituted Sith Empire - Fury-Class Interceptor.png</File>
+    <File>Reconstituted Sith Empire - Harrower-Class SD.png</File>
+    <File>Reconstituted Sith Empire - Insignia.png</File>
+    <File>Reconstituted Sith Empire - Sith Space Station.png</File>
+    <File>Reconstituted Sith Empire - Terminus-Class SD.png</File>
+    <File>Research Station.png</File>
+    <File>Star Wars - Explosion.png</File>
+    <File>Star Wars - Golan III Defense Platform.png</File>
+    <File>Star Wars - White Proton Torpedo.png</File>
+    <File>Star Wars - White Turbolaser.png</File>
+    <File>Star Wars - XQ1 Platform.png</File>
+    <File>Yuuzhan Vong - Advance Scout Ship.png</File>
+    <File>Yuuzhan Vong - Insignia.png</File>
+    <File>Yuuzhan Vong - Kor Chokk.png</File>
+    <File>Yuuzhan Vong - Matalok.png</File>
+    <File>Yuuzhan Vong - Miid Roik.png</File>
+    <File>Yuuzhan Vong - Worldship.png</File>
+  </DestFiles>
+</SourceFileCollection>
